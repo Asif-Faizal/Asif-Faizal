@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🌎, I'm Asif</h1>
+<h1 align="center">Hello World! 🌎, I'm **Asif**</h1>
 <h3 align="center">A Mobile Application Developer</h3>
 
 - 🔭 I’m currently working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)
