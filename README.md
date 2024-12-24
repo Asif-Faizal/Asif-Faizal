@@ -17,20 +17,43 @@
 
 ### Blogs posts
 
-<div align="center">
-  <a href="https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc-and-cubit-4c8d1a5e1761" style="text-decoration:none;">
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; margin: 10px; display: inline-block;">
-      <h4>State Management in the Flutterverse</h4>
-      <p>Comparing Bloc and Cubit</p>
-    </div>
-  </a>
-  <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" style="text-decoration:none;">
-    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; margin: 10px; display: inline-block;">
-      <h4>Enter the Flutter-Verse</h4>
-      <p>Flutter Plugin Development</p>
-    </div>
-  </a>
+<div align="center" style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px; flex-wrap: nowrap;">
+  <!-- Blog 1 -->
+  <div style="position: relative; width: 300px; cursor: pointer;">
+    <a href="https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc-and-cubit-4c8d1a5e1761" style="text-decoration: none;">
+      <div style="overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+        <img src="https://via.placeholder.com/300x200?text=State+Management" alt="State Management Blog" style="width: 100%; transition: transform 0.3s ease;">
+      </div>
+      <p style="margin: 10px 0; color: #333; font-weight: bold; text-align: center;">State Management in the Flutterverse</p>
+    </a>
+  </div>
+
+  <!-- Blog 2 -->
+  <div style="position: relative; width: 300px; cursor: pointer;">
+    <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" style="text-decoration: none;">
+      <div style="overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+        <img src="https://via.placeholder.com/300x200?text=Enter+Flutter-Verse" alt="Flutter-Verse Blog" style="width: 100%; transition: transform 0.3s ease;">
+      </div>
+      <p style="margin: 10px 0; color: #333; font-weight: bold; text-align: center;">Enter the Flutter-Verse</p>
+    </a>
+  </div>
+
+  <!-- Blog 3 -->
+  <div style="position: relative; width: 300px; cursor: pointer;">
+    <a href="https://medium.com/@moh.asif/another-blog-example" style="text-decoration: none;">
+      <div style="overflow: hidden; border-radius: 8px; border: 1px solid #ddd;">
+        <img src="https://via.placeholder.com/300x200?text=Another+Blog" alt="Another Blog" style="width: 100%; transition: transform 0.3s ease;">
+      </div>
+      <p style="margin: 10px 0; color: #333; font-weight: bold; text-align: center;">Another Blog</p>
+    </a>
+  </div>
 </div>
+
+<style>
+  a:hover img {
+    transform: scale(1.1); /* Hover effect: zoom image */
+  }
+</style>
 
 
 <h3 align="left">Connect with me:</h3>
