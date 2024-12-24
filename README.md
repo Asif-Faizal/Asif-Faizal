@@ -11,21 +11,21 @@
 ## Projects
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
-    <img align="left" src="contactor.webp" alt="Contactor" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="contacts-book.png" alt="Contactor" height="50" width="50" style="margin-right: 30px;" />
     <strong>Contactor</strong>
   </a>: Contactor is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="blink.webp" alt="Blink Detective" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="face-recognition.png" alt="Blink Detective" height="50" width="50" style="margin-right: 30px;" />
     <strong>Blink Detective</strong>
   </a>: Flutter Blink Detection is a Flutter package that provides a controller for detecting faces and blinks using the camera feed and Google's ML Kit.
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Butler" target="blank">
-    <img align="left" src="butler.webp" alt="Butler" height="50" width="50" />
+    <img align="left" src="waiter.png" alt="Butler" height="50" width="50" />
     <strong>Butler</strong>
   </a>: A robust application is built on a dedicated server powered by Node.js and leverages Microsoft SQL Server for efficient database management. Designed with both performance and scalability.
 </p>
