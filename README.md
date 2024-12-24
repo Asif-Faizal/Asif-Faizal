@@ -1,12 +1,7 @@
 
   <h1>Hello World! 🌎, I'm <code>Asif</code></h1>
   <h2>A Mobile Application Developer</h2>
-  <p><code> Flutter, Android, iOS </code></p>
-
-- 🔭 Working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)  
-- 🌱 Learning [Kotlin MultiPlatform Mobile](https://kotlinlang.org/docs/multiplatform.html)
-- 👯 Contributing [Flutter-Dotted-Border](https://github.com/ajilo297/Flutter-Dotted-Border)  
-- 🤝 Help me on [TrueFace](https://github.com/Asif-Faizal/True-Face)  
+  
 
 ## Projects
 <p align="left">
