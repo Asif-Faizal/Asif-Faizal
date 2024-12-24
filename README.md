@@ -16,7 +16,7 @@
 - 📫 How to reach me **moh.asif@protonmail.ch**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc-and-cubit-4c8d1a5e1761 -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
