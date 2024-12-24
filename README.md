@@ -1,5 +1,5 @@
-<h1 align="center">Hello World! 🌎, I'm **Asif**</h1>
-<h3 align="center">A Mobile Application Developer</h3>
+# Hello World! 🌎, I'm **Asif**
+## A Mobile Application Developer
 
 - 🔭 I’m currently working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)
 
