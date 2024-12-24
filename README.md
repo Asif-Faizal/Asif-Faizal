@@ -58,7 +58,7 @@
 
 ## Help me on
 <p align="left">
-  <a href="https://pub.dev/packages/dotted_border" target="blank">
+  <a href="https://github.com/Asif-Faizal/True-Face" target="blank">
     <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
     <strong>TrueFace</strong>
   </a>: True-Face uses Google ML Kit to verify users by detecting facial landmarks, blinks, and head movements, preventing spoofing with images or videos.
