@@ -2,40 +2,40 @@
 <div style="display: flex; align-items: center;">
   <p style="margin: 0; display: flex; gap: 10px;">
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="flutter.png" alt="moh--asif" height="20" width="15" />
+      <img align="center" src="flutter.png" alt="moh--asif" height="50" width="40" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="android.png" alt="moh--asif" height="20" width="20" />
+      <img align="center" src="android.png" alt="moh--asif" height="50" width="50" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="apple.png" alt="moh--asif" height="20" width="20" />
+      <img align="center" src="apple.png" alt="moh--asif" height="50" width="50" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="kmm.png" alt="moh--asif" height="20" width="20" />
+      <img align="center" src="kmm.png" alt="moh--asif" height="50" width="50" />
     </a>
   </p>
 </div>
-<hr style="width: 100%; border: 0.5px solid white;" />
 
+<br>
 
 ## Projects
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
-    <img align="left" src="contacts-book.png" alt="Contactor" height="50" width="50" style="padding: 10px;" />
+    <img align="left" src="contacts-book.png" alt="Contactor" height="30" width="30" style="padding: 10px;" />
     <strong>Contactor</strong>
   </a>: Contactor is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="blink-detect.svg" alt="Blink Detective" height="50" width="50" style="padding: 10px;" />
+    <img align="left" src="blink-detect.svg" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
     <strong>Blink Detective</strong>
   </a>: Flutter Blink Detection is a Flutter package that provides a controller for detecting faces and blinks using the camera feed and Google's ML Kit.
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Butler" target="blank">
-    <img align="left" src="waiter.png" alt="Butler" height="50" width="50" style="padding: 10px;" />
+    <img align="left" src="waiter.png" alt="Butler" height="30" width="30" style="padding: 10px;" />
     <strong>Butler</strong>
   </a>: A robust application is built on a dedicated server powered by Node.js and leverages Microsoft SQL Server for efficient database management. Designed with both performance and scalability.
 </p>
@@ -43,7 +43,7 @@
 ## Working on
 <p align="left">
   <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
-    <img align="left" src="crypto-scope.png" alt="CryptoScope" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
     <strong>CryptoScope</strong>
   </a>: CryptoScope is a Kotlin Multiplatform Mobile App without separate UI for fetching cryptocurrency prices and market details. The app pulls data from a dedicated Node.js API
 </p>
@@ -51,7 +51,7 @@
 ## Contributing to
 <p align="left">
   <a href="https://pub.dev/packages/dotted_border" target="blank">
-    <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
     <strong>Flutter-Dotted-Border</strong>
   </a>: A flutter package to easily added dotted borders around widgets. To use this package, add dotted_border as a dependency in your pubspec.yaml file. Wrap DottedBorder widget around the child widget
 </p>
@@ -59,7 +59,7 @@
 ## Help me on
 <p align="left">
   <a href="https://pub.dev/packages/dotted_border" target="blank">
-    <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
     <strong>TrueFace</strong>
   </a>: True-Face uses Google ML Kit to verify users by detecting facial landmarks, blinks, and head movements, preventing spoofing with images or videos.
 </p>
