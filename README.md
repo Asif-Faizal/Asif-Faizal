@@ -46,6 +46,14 @@
   </a>: A flutter package to easily added dotted borders around widgets. To use this package, add dotted_border as a dependency in your pubspec.yaml file. Wrap DottedBorder widget around the child widget
 </p>
 
+## Help me on
+<p align="left">
+  <a href="https://pub.dev/packages/dotted_border" target="blank">
+    <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="50" width="50" style="margin-right: 30px;" />
+    <strong>TrueFace</strong>
+  </a>: True-Face uses Google ML Kit to verify users by detecting facial landmarks, blinks, and head movements, preventing spoofing with images or videos.
+</p>
+
 ## Blogs posts
 <p align="left">
   <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
