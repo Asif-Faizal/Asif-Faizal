@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 🌎 , I'm Asif</h1>
+<h1 align="center">Hello World! 🌎, I'm Asif</h1>
 <h3 align="center">A Mobile Application Developer</h3>
 
 - 🔭 I’m currently working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)
@@ -9,15 +9,29 @@
 
 - 🤝 I’m looking for help with [TrueFace](https://github.com/Asif-Faizal/True-Face)
 
-- 📝 I regularly write articles on [https://medium.com/@moh.asif](https://medium.com/@moh.asif)
+- 📝 I regularly write articles on [Medium](https://medium.com/@moh.asif)
 
 - 💬 Ask me about **Flutter, Android, iOS**
 
 - 📫 How to reach me **moh.asif@protonmail.ch**
 
 ### Blogs posts
-https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc-and-cubit-4c8d1a5e1761
-<!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <a href="https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc-and-cubit-4c8d1a5e1761" style="text-decoration:none;">
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; margin: 10px; display: inline-block;">
+      <h4>State Management in the Flutterverse</h4>
+      <p>Comparing Bloc and Cubit</p>
+    </div>
+  </a>
+  <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" style="text-decoration:none;">
+    <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; width: 300px; margin: 10px; display: inline-block;">
+      <h4>Enter the Flutter-Verse</h4>
+      <p>Flutter Plugin Development</p>
+    </div>
+  </a>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +40,3 @@ https://medium.com/@moh.asif/state-management-in-the-flutterverse-comparing-bloc
 <a href="https://medium.com/@moh.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moh.asif" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
