@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="face-recognition.png" alt="Blink Detective" height="50" width="50" style="padding: 10px;" />
+    <img align="left" src="blink.svg" alt="Blink Detective" height="50" width="50" style="padding: 10px;" />
     <strong>Blink Detective</strong>
   </a>: Flutter Blink Detection is a Flutter package that provides a controller for detecting faces and blinks using the camera feed and Google's ML Kit.
 </p>
@@ -41,7 +41,7 @@
 ## Contributing to
 <p align="left">
   <a href="https://pub.dev/packages/dotted_border" target="blank">
-    <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="50" width="50" style="margin-right: 30px;" />
+    <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="50" width="50" style="margin-right: 30px;" />
     <strong>Flutter-Dotted-Border</strong>
   </a>: A flutter package to easily added dotted borders around widgets. To use this package, add dotted_border as a dependency in your pubspec.yaml file. Wrap DottedBorder widget around the child widget
 </p>
