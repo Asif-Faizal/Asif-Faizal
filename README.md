@@ -18,13 +18,13 @@
 ### Blogs posts
 <p align="left">
   <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HORosRHZCVVJR650yvoGeA.jpeg" alt="moh--asif" height="150" width="300" style="margin-right: 30px;" />
+    <img align="center" src="assets/images/flutter_plugin_development.jpg" alt="moh--asif" height="150" width="250" style="margin-right: 30px;" />
   </a>
-  <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HORosRHZCVVJR650yvoGeA.jpeg" alt="moh--asif" height="150" width="300" style="margin-right: 30px;" />
+  <a href="https://medium.com/@moh.asif/scaling-the-flutter-verse-dependency-injection-in-flutter-16ac576ba1f1" target="blank">
+    <img align="center" src="assets/images/dependency_injection_flutter.jpg" alt="moh--asif" height="150" width="250" style="margin-right: 30px;" />
   </a>
-  <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
-    <img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*HORosRHZCVVJR650yvoGeA.jpeg" alt="moh--asif" height="150" width="300" />
+  <a href="https://medium.com/@moh.asif/isolating-the-flutter-verse-multi-threading-using-isolate-3eadaf6b2321" target="blank">
+    <img align="center" src="assets/images/flutter_isolate.gif" alt="moh--asif" height="150" width="250" />
   </a>
 </p>
 
