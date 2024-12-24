@@ -1,30 +1,24 @@
-# Hello World! 🌎, I'm **Asif**
-## A Mobile Application Developer
 
-- 🔭 I’m currently working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)
+  <h1>Hello World! 🌎, I'm <code>Asif</code></h1>
+  <h2>A Mobile Application Developer</h2>
+  <p><code> Flutter, Android, iOS </code></p>
 
-- 🌱 I’m currently learning **Kotlin MultiPlatform Mobile**
+- 🔭 Working on [CryptoScope](https://github.com/Asif-Faizal/CryptoScope)  
+- 🌱 Learning [Kotlin MultiPlatform Mobile](https://kotlinlang.org/docs/multiplatform.html)
+- 👯 Contributing [Flutter-Dotted-Border](https://github.com/ajilo297/Flutter-Dotted-Border)  
+- 🤝 Help me on [TrueFace](https://github.com/Asif-Faizal/True-Face)  
 
-- 👯 I’m looking to collaborate on [Flutter-Dotted-Border](https://github.com/ajilo297/Flutter-Dotted-Border)
-
-- 🤝 I’m looking for help with [TrueFace](https://github.com/Asif-Faizal/True-Face)
-
-- 📝 I regularly write articles on [Medium](https://medium.com/@moh.asif)
-
-- 💬 Ask me about **Flutter, Android, iOS**
-
-- 📫 How to reach me **moh.asif@protonmail.ch**
 
 ### Blogs posts
 <p align="left">
   <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
-    <img align="center" src="assets/images/flutter_plugin_development.jpg" alt="moh--asif" height="150" width="250" style="margin-right: 30px;" />
+    <img align="center" src="blog1.png" alt="moh--asif" height="120" width="200" style="margin-right: 30px;" />
   </a>
   <a href="https://medium.com/@moh.asif/scaling-the-flutter-verse-dependency-injection-in-flutter-16ac576ba1f1" target="blank">
-    <img align="center" src="assets/images/dependency_injection_flutter.jpg" alt="moh--asif" height="150" width="250" style="margin-right: 30px;" />
+    <img align="center" src="blog2.png" alt="moh--asif" height="120" width="200" style="margin-right: 30px;" />
   </a>
   <a href="https://medium.com/@moh.asif/isolating-the-flutter-verse-multi-threading-using-isolate-3eadaf6b2321" target="blank">
-    <img align="center" src="assets/images/flutter_isolate.gif" alt="moh--asif" height="150" width="250" />
+    <img align="center" src="blog3.png" alt="moh--asif" height="120" width="200" />
   </a>
 </p>
 
