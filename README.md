@@ -1,7 +1,22 @@
+  <h1>Mobile Application developer</h1>
+<div style="display: flex; align-items: center;">
+  <p style="margin: 0; display: flex; gap: 10px;">
+    <a href="https://linkedin.com/in/moh--asif" target="_blank">
+      <img align="center" src="flutter.png" alt="moh--asif" height="20" width="15" />
+    </a>
+    <a href="https://linkedin.com/in/moh--asif" target="_blank">
+      <img align="center" src="android.png" alt="moh--asif" height="20" width="20" />
+    </a>
+    <a href="https://linkedin.com/in/moh--asif" target="_blank">
+      <img align="center" src="apple.png" alt="moh--asif" height="20" width="20" />
+    </a>
+    <a href="https://linkedin.com/in/moh--asif" target="_blank">
+      <img align="center" src="kmm.png" alt="moh--asif" height="20" width="20" />
+    </a>
+  </p>
+</div>
+<hr style="width: 100%; border: 0.5px solid white;" />
 
-  <h1>Hello World! 🌎, I'm <code>Asif</code></h1>
-  <h2>A Mobile Application Developer</h2>
-  
 
 ## Projects
 <p align="left">
