@@ -7,16 +7,16 @@
 <div align="center">
   <p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="flutter.png" alt="moh--asif" height="30" width="25" />
+      <img align="center" src="flutter.png" alt="moh--asif" height="40" width="37" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="android.png" alt="moh--asif" height="30" width="30" />
+      <img align="center" src="android.png" alt="moh--asif" height="40" width="40" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="apple.png" alt="moh--asif" height="30" width="30" />
+      <img align="center" src="apple.png" alt="moh--asif" height="40" width="40" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="kmm.png" alt="moh--asif" height="30" width="30" />
+      <img align="center" src="kmm.png" alt="moh--asif" height="40" width="40" />
     </a>
   </p>
 </div>
