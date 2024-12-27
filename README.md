@@ -1,4 +1,4 @@
-  <h1>Mobile Application developer</h1>
+<h1 align="center">Mobile Application developer</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/20ee218e-806c-4c3e-b3ca-ee37612856c0" width="300" />
