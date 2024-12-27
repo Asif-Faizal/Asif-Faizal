@@ -1,24 +1,25 @@
   <h1>Mobile Application developer</h1>
-<!-- <div style="display: flex; align-items: center;">
-  <p style="margin: 0; display: flex; gap: 10px;">
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/20ee218e-806c-4c3e-b3ca-ee37612856c0" width="300" />
+</div>
+
+<div align="center">
+  <p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="flutter.png" alt="moh--asif" height="50" width="40" />
+      <img align="center" src="flutter.png" alt="moh--asif" height="30" width="25" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="android.png" alt="moh--asif" height="50" width="50" />
+      <img align="center" src="android.png" alt="moh--asif" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="apple.png" alt="moh--asif" height="50" width="50" />
+      <img align="center" src="apple.png" alt="moh--asif" height="30" width="30" />
     </a>
     <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="kmm.png" alt="moh--asif" height="50" width="50" />
+      <img align="center" src="kmm.png" alt="moh--asif" height="30" width="30" />
     </a>
   </p>
-</div> -->
-
-<img src="https://github.com/user-attachments/assets/20ee218e-806c-4c3e-b3ca-ee37612856c0" width="150" />
-
-<br>
+</div>
 
 ## Projects
 <p align="left">
