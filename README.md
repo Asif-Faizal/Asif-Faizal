@@ -21,14 +21,14 @@
 ## Projects
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
-    <img align="left" src="contacts-book.png" alt="Contactor" height="30" width="30" style="padding: 10px;" />
+    <img align="left" src="contact.png" alt="Contactor" height="30" width="30" style="padding: 10px;" />
     <strong>Contactor</strong>
   </a>: Contactor is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="blink-detect.svg" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
+    <img align="left" src="blink.svg" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
     <strong>Blink Detective</strong>
   </a>: Flutter Blink Detection is a Flutter package that provides a controller for detecting faces and blinks using the camera feed and Google's ML Kit.
 </p>
