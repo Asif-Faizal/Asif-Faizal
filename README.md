@@ -21,7 +21,9 @@
   </p>
 </div>
 
-## Projects
+</br>
+
+<h2 align="center">Projects</h2>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
     <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" style="padding: 10px;" />
@@ -43,7 +45,8 @@
   </a>: A robust application is built on a dedicated server powered by Node.js and leverages Microsoft SQL Server for efficient database management. Designed with both performance and scalability.
 </p>
 
-## Working on
+</br>
+<h2 align="center">Working On</h2>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
     <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
@@ -51,7 +54,8 @@
   </a>: CryptoScope is a Kotlin Multiplatform Mobile App without separate UI for fetching cryptocurrency prices and market details. The app pulls data from a dedicated Node.js API
 </p>
 
-## Contributing to
+</br>
+<h2 align="center">Contributing To</h2>
 <p align="left">
   <a href="https://pub.dev/packages/dotted_border" target="blank">
     <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
@@ -59,7 +63,8 @@
   </a>: A flutter package to easily added dotted borders around widgets. To use this package, add dotted_border as a dependency in your pubspec.yaml file. Wrap DottedBorder widget around the child widget
 </p>
 
-## Help me on
+</br>
+<h2 align="center">Help Me On</h2>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/True-Face" target="blank">
     <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
@@ -67,8 +72,9 @@
   </a>: True-Face uses Google ML Kit to verify users by detecting facial landmarks, blinks, and head movements, preventing spoofing with images or videos.
 </p>
 
-## Blogs posts
-<p align="left">
+</br>
+<h2 align="center">Blog Posts</h2>
+<p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
   <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
     <img align="center" src="blog1.png" alt="moh--asif" height="120" width="200" style="margin-right: 30px;" />
   </a>
@@ -80,8 +86,9 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/moh--asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh--asif" height="30" width="40" /></a>
 <a href="https://instagram.com/asif_faizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_faizal" height="30" width="40" /></a>
 <a href="https://medium.com/@moh.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moh.asif" height="30" width="40" /></a>
