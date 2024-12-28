@@ -59,7 +59,7 @@
   <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
     <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
     <strong>CryptoScope</strong>
-  </a>: CryptoScope is a Kotlin Multiplatform Mobile App without separate UI for fetching cryptocurrency prices and market details. The app pulls data from a dedicated Node.js API
+  </a>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
 </p>
 
 </br>
