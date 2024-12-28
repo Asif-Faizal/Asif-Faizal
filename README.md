@@ -39,6 +39,13 @@
 </p>
 
 <p align="left">
+  <a href="https://github.com/Asif-Faizal/Informed" target="blank">
+    <img align="left" src="international.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
+    <strong>Informed</strong>
+  </a>: Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
+</p>
+
+<p align="left">
   <a href="https://github.com/Asif-Faizal/Butler" target="blank">
     <img align="left" src="waiter.png" alt="Butler" height="30" width="30" style="padding: 10px;" />
     <strong>Butler</strong>
