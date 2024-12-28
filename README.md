@@ -24,9 +24,10 @@
 </br>
 
 <h2 align="center">Projects</h2>
+
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
-    <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" style="padding: 10px;" />
+    <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
     <strong>Contactor</strong>
   </a>: Contactor is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
 </p>
