@@ -36,8 +36,10 @@
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
     <img align="left" src="loading.png" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
     <strong>Bouncing Loading Button</strong>
-  </a>: A customizable Flutter widget that transforms a regular button into an interactive loading and completion button with smooth animations.
+  </a>: A customizable Flutter widget that transforms a regular button into an interactive loading and completion button with smooth animations.  
+  <a href="https://pub.dev/packages/bouncing_loading_button" target="_blank"> pub.dev</a>.
 </p>
+
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Informed" target="blank">
