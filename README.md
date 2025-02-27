@@ -75,9 +75,9 @@
 <h2 align="center">Help Me On</h2>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/True-Face" target="blank">
-    <img align="left" src="face-recognition.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
-    <strong>TrueFace</strong>
-  </a>: True-Face uses Google ML Kit to verify users by detecting facial landmarks, blinks, and head movements, preventing spoofing with images or videos.
+    <img align="left" src="square.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
+    <strong>EdgeDetectX</strong>
+  </a>: EdgeDetectX is a Flutter plugin for real-time edge detection using the device camera, ideal for document scanning and object recognition. 
 </p>
 
 </br>
