@@ -34,9 +34,9 @@
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="blink.png" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
-    <strong>Blink Detective</strong>
-  </a>: Flutter Blink Detection is a Flutter package that provides a controller for detecting faces and blinks using the camera feed and Google's ML Kit.
+    <img align="left" src="loading.png" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
+    <strong>Bouncing Loading Button</strong>
+  </a>: A customizable Flutter widget that transforms a regular button into an interactive loading and completion button with smooth animations.
 </p>
 
 <p align="left">
