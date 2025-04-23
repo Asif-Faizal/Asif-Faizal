@@ -26,6 +26,13 @@
 <h2 align="center">Projects</h2>
 
 <p align="left">
+  <a href="https://github.com/Asif-Faizal/NextBus" target="blank">
+    <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
+    <strong>NextBus</strong>
+  </a>: A platform for booking unreserved bus tickets and viewing routes.
+</p>
+
+<p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
     <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
     <strong>Contactor</strong>
