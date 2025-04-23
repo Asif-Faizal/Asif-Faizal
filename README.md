@@ -70,16 +70,6 @@
     <strong>CryptoScope</strong>
   </a>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
 </p>
-
-</br>
-<h2 align="center">Contributing To</h2>
-<p align="left">
-  <a href="https://pub.dev/packages/dotted_border" target="blank">
-    <img align="left" src="dot.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
-    <strong>Flutter-Dotted-Border</strong>
-  </a>: A flutter package to easily added dotted borders around widgets. To use this package, add dotted_border as a dependency in your pubspec.yaml file. Wrap DottedBorder widget around the child widget
-</p>
-
 </br>
 <h2 align="center">Help Me On</h2>
 <p align="left">
