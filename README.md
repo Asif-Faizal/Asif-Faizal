@@ -26,6 +26,13 @@
 <h2 align="center">Projects</h2>
 
 <p align="left">
+  <a href="https://github.com/Asif-Faizal/Versace" target="blank">
+    <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
+    <strong>Versace</strong>
+  </a>: Full fledged Ecommerce Fashion App with product and order managment with payment integration - powered by a Node.js + MongoDB backend, Next.js web frontend and Flutter Mobile app.
+</p>
+
+<p align="left">
   <a href="https://github.com/Asif-Faizal/NextBus" target="blank">
     <img align="left" src="next-bus.png" alt="Contactor" height="30" width="30" />
     <strong>NextBus</strong>
@@ -35,18 +42,10 @@
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
     <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
-    <strong>Contactor</strong>
-  </a>: Contactor is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
+    <strong>ContactX</strong>
+  </a>: ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
+  <a href="https://pub.dev/packages/contactx" target="_blank"> pub.dev</a>.
 </p>
-
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Blink-Detective" target="blank">
-    <img align="left" src="loading.png" alt="Blink Detective" height="30" width="30" style="padding: 10px;" />
-    <strong>Bouncing Loading Button</strong>
-  </a>: A customizable Flutter widget that transforms a regular button into an interactive loading and completion button with smooth animations.  
-  <a href="https://pub.dev/packages/bouncing_loading_button" target="_blank"> pub.dev</a>.
-</p>
-
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Informed" target="blank">
