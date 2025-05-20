@@ -5,7 +5,7 @@
 <h2 align="center">Projects</h2>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank">
-    <img align="left" src="chat.png" alt="Versace" height="30" width="30" />
+    <img align="left" src="chat.png" alt="Social Circle" height="30" width="30" />
     <strong>Versace</strong>
   </a>: Real-time chat application powered by gRPC, Node.js and MongoDB on the backend, with a Flutter frontend. It features user registration, login, real-time message streaming, and chat history retrieval using Protocol Buffers.
 </p>
