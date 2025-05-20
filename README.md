@@ -1,25 +1,6 @@
 <h1 align="center">Mobile Application developer</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/20ee218e-806c-4c3e-b3ca-ee37612856c0" width="300" />
-</div>
-
-<div align="center">
-  <p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
-    <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="flutter.png" alt="moh--asif" height="40" width="37" />
-    </a>
-    <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="android.png" alt="moh--asif" height="40" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="apple.png" alt="moh--asif" height="40" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/moh--asif" target="_blank">
-      <img align="center" src="kmm.png" alt="moh--asif" height="40" width="40" />
-    </a>
-  </p>
-</div>
+  ![header-removebg-preview](https://github.com/user-attachments/assets/cfe3b702-e06a-4120-ba32-38bf3c737455)
 
 </br>
 
