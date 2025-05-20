@@ -1,11 +1,8 @@
 <h1 align="center">Mobile Application developer</h1>
 
   ![header-removebg-preview](https://github.com/user-attachments/assets/cfe3b702-e06a-4120-ba32-38bf3c737455)
-
 </br>
-
 <h2 align="center">Projects</h2>
-
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Versace" target="blank">
     <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
