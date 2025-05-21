@@ -1,6 +1,7 @@
 <h1 align="center">Mobile Application developer</h1>
 
-  ![header-removebg-preview](https://github.com/user-attachments/assets/cfe3b702-e06a-4120-ba32-38bf3c737455)
+![Untitled_design-removebg-preview](https://github.com/user-attachments/assets/efd0786b-5602-41b2-8258-be573af2d630)
+
 </br>
 <h2 align="center">Projects</h2>
 <p align="left">
