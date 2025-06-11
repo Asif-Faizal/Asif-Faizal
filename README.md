@@ -7,28 +7,21 @@
   <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank">
     <img align="left" src="chat.png" alt="Social Circle" height="30" width="30" />
     <strong>Social Circle</strong>
-  </a>: Real-time chat application powered by gRPC, Node.js and MongoDB on the backend, with a Flutter frontend. It features user registration, login, real-time message streaming, and chat history retrieval using Protocol Buffers.
+  </a> <strong>[Full-Stack Mobile]</strong>: Real-time chat application powered by gRPC, Node.js, and MongoDB on the backend, with a Flutter frontend. It features user registration, login, real-time message streaming, and chat history retrieval using Protocol Buffers.
 </p>
 
 <p align="left">
-  <a href="https://github.com/Asif-Faizal/Versace" target="blank">
-    <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
-    <strong>Versace</strong>
-  </a>: Full fledged Ecommerce Fashion App with product and order managment with payment integration - powered by a Node.js + MongoDB backend, Next.js web frontend and Flutter Mobile app.
-</p>
-
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/NextBus" target="blank">
-    <img align="left" src="next-bus.png" alt="Contactor" height="30" width="30" />
-    <strong>NextBus</strong>
-  </a>: A cross-platform solution for booking unreserved bus tickets and viewing routes — powered by a Node.js + MongoDB backend, Next.js web frontend, and a Flutter mobile app.
+  <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank">
+    <img align="left" src="doodle.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
+    <strong>Doodle-Dome</strong>
+  </a>: <strong>[Backend]</strong>A school-based art competition platform that inspires young artists to express creativity through drawing and illustration. Manage art competitions, schools, students, and registrations.
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
     <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
     <strong>ContactX</strong>
-  </a>: ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
+  </a>: <strong>[Flutter Plugin]</strong>ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
   <a href="https://pub.dev/packages/contactx" target="_blank"> pub.dev</a>.
 </p>
 
@@ -36,11 +29,23 @@
   <a href="https://github.com/Asif-Faizal/Informed" target="blank">
     <img align="left" src="international.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
     <strong>Informed</strong>
-  </a>: Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
+  </a>: <strong>[Mobile App]</strong>Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
 </p>
 
 </br>
 <h2 align="center">Working On</h2>
+<p align="left">
+  <a href="https://github.com/Asif-Faizal/NextBus" target="blank">
+    <img align="left" src="next-bus.png" alt="NextBus" height="30" width="30" />
+    <strong>NextBus</strong>
+  </a> <strong>[Full-Stack Mobile + Web]</strong>: A cross-platform solution for booking unreserved bus tickets and viewing routes — powered by a Node.js + MongoDB backend, with a Next.js dashboard and a Flutter mobile frontend.
+</p>
+<p align="left">
+  <a href="https://github.com/Asif-Faizal/Versace" target="blank">
+    <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
+    <strong>Versace</strong>
+  </a> <strong>[Full-Stack Mobile]</strong>: A full-fledged ecommerce fashion app with product and order management, and payment integration — powered by a Node.js + MongoDB backend and Flutter mobile frontend.
+</p>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
     <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
