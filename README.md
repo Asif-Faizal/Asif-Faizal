@@ -14,14 +14,14 @@
   <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank">
     <img align="left" src="doodle.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
     <strong>Doodle-Dome</strong>
-  </a>: <strong>[Backend]</strong>A school-based art competition platform that inspires young artists to express creativity through drawing and illustration. Manage art competitions, schools, students, and registrations.
+  </a>: <strong>[Backend]: </strong>A school-based art competition platform that inspires young artists to express creativity through drawing and illustration. Manage art competitions, schools, students, and registrations.
 </p>
 
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
     <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
     <strong>ContactX</strong>
-  </a>: <strong>[Flutter Plugin]</strong>ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
+  </a>: <strong>[Flutter Plugin]: </strong>ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
   <a href="https://pub.dev/packages/contactx" target="_blank"> pub.dev</a>.
 </p>
 
@@ -29,7 +29,7 @@
   <a href="https://github.com/Asif-Faizal/Informed" target="blank">
     <img align="left" src="international.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
     <strong>Informed</strong>
-  </a>: <strong>[Mobile App]</strong>Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
+  </a>: <strong>[Mobile App]: </strong>Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
 </p>
 
 </br>
@@ -50,7 +50,7 @@
   <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
     <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
     <strong>CryptoScope</strong>
-  </a>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
+  </a> <strong>[Mobile App]</strong>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
 </p>
 </br>
 <h2 align="center">Help Me On</h2>
@@ -58,7 +58,7 @@
   <a href="https://github.com/Asif-Faizal/True-Face" target="blank">
     <img align="left" src="square.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
     <strong>EdgeDetectX</strong>
-  </a>: EdgeDetectX is a Flutter plugin for real-time edge detection using the device camera, ideal for document scanning and object recognition. 
+  </a> <strong>[Flutter Plugin]</strong>:  EdgeDetectX is a Flutter plugin for real-time edge detection using the device camera, ideal for document scanning and object recognition. 
 </p>
 
 </br>
