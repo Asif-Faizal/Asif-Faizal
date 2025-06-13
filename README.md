@@ -7,7 +7,7 @@
   <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank">
     <img align="left" src="chat.png" alt="Social Circle" height="30" width="30" />
     <strong>Social Circle</strong>
-  </a> <strong>[Full-Stack Mobile]</strong>: Real-time chat application powered by gRPC, Node.js, and MongoDB on the backend, with a Flutter frontend. It features user registration, login, real-time message streaming, and chat history retrieval using Protocol Buffers.
+  </a> <strong>[Full-Stack Mobile]</strong>: Real-time chat application powered by gRPC, Node.js, and MongoDB on the backend, with a Flutter. It features user authentication, real-time messaging and chat history retrieval using Protocol Buffers.
 </p>
 
 <p align="left">
@@ -34,12 +34,6 @@
 
 </br>
 <h2 align="center">Working On</h2>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/NextBus" target="blank">
-    <img align="left" src="next-bus.png" alt="NextBus" height="30" width="30" />
-    <strong>NextBus</strong>
-  </a> <strong>[Full-Stack Mobile + Web]</strong>: A cross-platform solution for booking unreserved bus tickets and viewing routes — powered by a Node.js + MongoDB backend, with a Next.js dashboard and a Flutter mobile frontend.
-</p>
 <p align="left">
   <a href="https://github.com/Asif-Faizal/Versace" target="blank">
     <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
