@@ -52,6 +52,12 @@
     <strong>CryptoScope</strong>
   </a> <strong>[Mobile App]</strong>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
 </p>
+<p align="left">
+  <a href="https://github.com/Asif-Faizal/Gommerce" target="blank">
+    <img align="left" src="gommerce.png" alt="Gommerce" height="30" width="30" style="margin-right: 30px;" />
+    <strong>Gommerce</strong>
+  </a> <strong>[Backend]</strong>: GoCommerce is a fast and modular eCommerce API built with Golang, featuring JWT authentication, MySQL integration, and comprehensive tests for reliability and maintainability.
+</p>
 </br>
 <h2 align="center">Help Me On</h2>
 <p align="left">
