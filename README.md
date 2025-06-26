@@ -1,133 +1,118 @@
-<h1 align="center">Mobile Application developer</h1>
+# Mobile Application Developer
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/ca5d0f92-90e2-4be2-8248-e7e4c841e771)
 
-<h2 align="center">Projects</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
-  <!-- Project 1 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="chat.png" alt="Social Circle" height="30" width="30" />
-      <strong style="font-size: 18px;">Social Circle</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Full-Stack Mobile]</strong>
-    </div>
-    <p>Real-time chat application powered by gRPC, Node.js, and MongoDB with Flutter. Features authentication, messaging, and chat history using Protocol Buffers.</p>
-  </div>
+## 🚀 Projects
 
-  <!-- Project 2 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="doodle.png" alt="Doodle-Dome" height="30" width="30" />
-      <strong style="font-size: 18px;">Doodle-Dome</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Backend]</strong>
-    </div>
-    <p>School-based art competition platform for managing contests, schools, students, and registrations.</p>
-  </div>
-
-  <!-- Project 3 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Gommerce" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="gommerce.png" alt="Gommerce" height="30" width="30" />
-      <strong style="font-size: 18px;">Gommerce</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Backend]</strong>
-    </div>
-    <p>Fast modular eCommerce API with Golang, JWT authentication, MySQL integration, and comprehensive testing.</p>
-  </div>
-
-  <!-- Project 4 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Contactor" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="contacts.png" alt="ContactX" height="30" width="30" />
-      <strong style="font-size: 18px;">ContactX</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Flutter Plugin]</strong>
-    </div>
-    <p>High-performance Flutter plugin for fetching device contacts using Method Channels. Available on <a href="https://pub.dev/packages/contactx" target="_blank">pub.dev</a>.</p>
-  </div>
-
-  <!-- Project 5 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Informed" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="international.png" alt="Informed" height="30" width="30" />
-      <strong style="font-size: 18px;">Informed</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Mobile App]</strong>
-    </div>
-    <p>News app built with Flutter TDD and Clean Architecture (49 tests). Focuses on modularity and maintainability.</p>
-  </div>
+<div align="center">
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="chat.png" alt="Social Circle" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/Social-Circle">Social Circle</a></b><br>
+  <small><b>[Full-Stack Mobile]</b></small><br>
+  <small>Real-time chat application powered by gRPC, Node.js, and MongoDB with Flutter.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="doodle.png" alt="Doodle-Dome" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/DoodleDome">Doodle-Dome</a></b><br>
+  <small><b>[Backend]</b></small><br>
+  <small>School-based art competition platform for managing contests, schools, students, and registrations.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="gommerce.png" alt="Gommerce" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/Gommerce">Gommerce</a></b><br>
+  <small><b>[Backend]</b></small><br>
+  <small>Fast modular eCommerce API with Golang, JWT authentication, MySQL integration.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="contacts.png" alt="ContactX" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/Contactor">ContactX</a></b><br>
+  <small><b>[Flutter Plugin]</b></small><br>
+  <small>High-performance Flutter plugin for fetching device contacts. Available on <a href="https://pub.dev/packages/contactx">pub.dev</a>.</small>
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="international.png" alt="Informed" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/Informed">Informed</a></b><br>
+  <small><b>[Mobile App]</b></small><br>
+  <small>News app built with Flutter TDD and Clean Architecture (49 tests). Focuses on modularity and maintainability.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+</tr>
+</table>
 </div>
 
-<h2 align="center">Working On</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
-  <!-- Project 1 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Versace" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="versace.png" alt="Versace" height="30" width="30" />
-      <strong style="font-size: 18px;">Versace</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Full-Stack Mobile]</strong>
-    </div>
-    <p>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</p>
-  </div>
+## 🔥 Currently Working On
 
-  <!-- Project 2 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="crypto-scope.png" alt="CryptoScope" height="30" width="30" />
-      <strong style="font-size: 18px;">CryptoScope</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Mobile App]</strong>
-    </div>
-    <p>Kotlin Multiplatform Mobile App with platform-specific UIs pulling data from Node.js API + MongoDB.</p>
-  </div>
+<div align="center">
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="versace.png" alt="Versace" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/Versace">Versace</a></b><br>
+  <small><b>[Full-Stack Mobile]</b></small><br>
+  <small>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="crypto-scope.png" alt="CryptoScope" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/CryptoScope">CryptoScope</a></b><br>
+  <small><b>[Mobile App]</b></small><br>
+  <small>Kotlin Multiplatform Mobile App with platform-specific UIs pulling data from Node.js API + MongoDB.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+</tr>
+</table>
 </div>
 
-<h2 align="center">Help Me On</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/True-Face" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="square.png" alt="EdgeDetectX" height="30" width="30" />
-      <strong style="font-size: 18px;">EdgeDetectX</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Flutter Plugin]</strong>
-    </div>
-    <p>Real-time edge detection plugin for document scanning and object recognition using device camera.</p>
-  </div>
+## 🤝 Help Me On
+
+<div align="center">
+<table style="width: 100%; table-layout: fixed;">
+<tr>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <img src="square.png" alt="EdgeDetectX" height="40" width="40" /><br>
+  <b><a href="https://github.com/Asif-Faizal/True-Face">EdgeDetectX</a></b><br>
+  <small><b>[Flutter Plugin]</b></small><br>
+  <small>Real-time edge detection plugin for document scanning and object recognition using device camera.</small>
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+<td width="25%" align="center" style="padding: 10px; vertical-align: top;">
+  <!-- Empty cell -->
+</td>
+</tr>
+</table>
 </div>
 
-</br>
-<h2 align="center">Blog Posts</h2>
-<p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
-  <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
-    <img align="center" src="blog1.png" alt="moh--asif" height="120" width="200" style="margin-right: 30px;" />
-  </a>
-  <a href="https://medium.com/@moh.asif/scaling-the-flutter-verse-dependency-injection-in-flutter-16ac576ba1f1" target="blank">
-    <img align="center" src="blog2.png" alt="moh--asif" height="120" width="200" style="margin-right: 30px;" />
-  </a>
-  <a href="https://medium.com/@moh.asif/isolating-the-flutter-verse-multi-threading-using-isolate-3eadaf6b2321" target="blank">
-    <img align="center" src="blog3.png" alt="moh--asif" height="120" width="200" />
-  </a>
-    <a href="https://medium.com/@moh.asif/navigating-the-flutterverse-navigating-the-chaos-with-gorouter-f1ded2844738" target="blank">
-    <img align="center" src="blog4.png" alt="moh--asif" height="120" width="200" />
-  </a>
-</p>
+## 📝 Blog Posts
 
-</br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/moh--asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh--asif" height="30" width="40" /></a>
-<a href="https://instagram.com/asif_faizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_faizal" height="30" width="40" /></a>
-<a href="https://medium.com/@moh.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moh.asif" height="30" width="40" /></a>
-</p>
+<div align="center">
 
+| [Flutter Plugin Development](https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c) | [Dependency Injection in Flutter](https://medium.com/@moh.asif/scaling-the-flutter-verse-dependency-injection-in-flutter-16ac576ba1f1) |
+|:---:|:---:|
+| [![Blog 1](blog1.png)](https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c) | [![Blog 2](blog2.png)](https://medium.com/@moh.asif/scaling-the-flutter-verse-dependency-injection-in-flutter-16ac576ba1f1) |
+
+| [Multi-threading using Isolate](https://medium.com/@moh.asif/isolating-the-flutter-verse-multi-threading-using-isolate-3eadaf6b2321) | [Navigating with GoRouter](https://medium.com/@moh.asif/navigating-the-flutterverse-navigating-the-chaos-with-gorouter-f1ded2844738) |
+|:---:|:---:|
+| [![Blog 3](blog3.png)](https://medium.com/@moh.asif/isolating-the-flutter-verse-multi-threading-using-isolate-3eadaf6b2321) | [![Blog 4](blog4.png)](https://medium.com/@moh.asif/navigating-the-flutterverse-navigating-the-chaos-with-gorouter-f1ded2844738) |
+
+</div>
