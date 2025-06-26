@@ -1,64 +1,110 @@
 <h1 align="center">Mobile Application developer</h1>
 
 ![Untitled design (1)](https://github.com/user-attachments/assets/ca5d0f92-90e2-4be2-8248-e7e4c841e771)
-</br>
+
 <h2 align="center">Projects</h2>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank">
-    <img align="left" src="chat.png" alt="Social Circle" height="30" width="30" />
-    <strong>Social Circle</strong>
-  </a> <strong>[Full-Stack Mobile]</strong>: Real-time chat application powered by gRPC, Node.js, and MongoDB on the backend, with a Flutter. It features user authentication, real-time messaging and chat history retrieval using Protocol Buffers.
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <!-- Project 1 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="chat.png" alt="Social Circle" height="30" width="30" />
+      <strong style="font-size: 18px;">Social Circle</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Full-Stack Mobile]</strong>
+    </div>
+    <p>Real-time chat application powered by gRPC, Node.js, and MongoDB with Flutter. Features authentication, messaging, and chat history using Protocol Buffers.</p>
+  </div>
 
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank">
-    <img align="left" src="doodle.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
-    <strong>Doodle-Dome</strong>
-  </a>: <strong>[Backend]: </strong>A school-based art competition platform that inspires young artists to express creativity through drawing and illustration. Manage art competitions, schools, students, and registrations.
-</p>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Gommerce" target="blank">
-    <img align="left" src="gommerce.png" alt="Gommerce" height="30" width="30" style="margin-right: 30px;" />
-    <strong>Gommerce</strong>
-  </a> <strong>[Backend]</strong>: GoCommerce is a fast and modular eCommerce API built with Golang, featuring JWT authentication, MySQL integration, and comprehensive tests for reliability and maintainability.
-</p>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Contactor" target="blank">
-    <img align="left" src="contacts.png" alt="Contactor" height="30" width="30" />
-    <strong>ContactX</strong>
-  </a>: <strong>[Flutter Plugin]: </strong>ContactoX is a powerful and fast Flutter plugin designed to fetch contacts directly from the device. Implemented with flutters Method channel for Android and iOS
-  <a href="https://pub.dev/packages/contactx" target="_blank"> pub.dev</a>.
-</p>
+  <!-- Project 2 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="doodle.png" alt="Doodle-Dome" height="30" width="30" />
+      <strong style="font-size: 18px;">Doodle-Dome</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Backend]</strong>
+    </div>
+    <p>School-based art competition platform for managing contests, schools, students, and registrations.</p>
+  </div>
 
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Informed" target="blank">
-    <img align="left" src="international.png" alt="Informed" height="30" width="30" style="padding: 10px;" />
-    <strong>Informed</strong>
-  </a>: <strong>[Mobile App]: </strong>Informed is a News app built with Flutter's Test-Driven Development (TDD) and Clean Architecture with 49 tests. It focuses on modularity, testability, scalability and maintainability.
-</p>
+  <!-- Project 3 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Gommerce" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="gommerce.png" alt="Gommerce" height="30" width="30" />
+      <strong style="font-size: 18px;">Gommerce</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Backend]</strong>
+    </div>
+    <p>Fast modular eCommerce API with Golang, JWT authentication, MySQL integration, and comprehensive testing.</p>
+  </div>
 
-</br>
+  <!-- Project 4 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Contactor" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="contacts.png" alt="ContactX" height="30" width="30" />
+      <strong style="font-size: 18px;">ContactX</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Flutter Plugin]</strong>
+    </div>
+    <p>High-performance Flutter plugin for fetching device contacts using Method Channels. Available on <a href="https://pub.dev/packages/contactx" target="_blank">pub.dev</a>.</p>
+  </div>
+
+  <!-- Project 5 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Informed" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="international.png" alt="Informed" height="30" width="30" />
+      <strong style="font-size: 18px;">Informed</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Mobile App]</strong>
+    </div>
+    <p>News app built with Flutter TDD and Clean Architecture (49 tests). Focuses on modularity and maintainability.</p>
+  </div>
+</div>
+
 <h2 align="center">Working On</h2>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/Versace" target="blank">
-    <img align="left" src="versace.png" alt="Versace" height="30" width="30" />
-    <strong>Versace</strong>
-  </a> <strong>[Full-Stack Mobile]</strong>: A full-fledged ecommerce fashion app with product and order management, and payment integration — powered by a Node.js + MongoDB backend and Flutter mobile frontend.
-</p>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank">
-    <img align="left" src="crypto-scope.png" alt="CryptoScope" height="30" width="30" style="margin-right: 30px;" />
-    <strong>CryptoScope</strong>
-  </a> <strong>[Mobile App]</strong>: CryptoScope is a Kotlin Multiplatform Mobile App with separate and different UI for iOS and Android. The app pulls data from a dedicated Node.js API and a MongoDB server.
-</p>
-</br>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <!-- Project 1 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Versace" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="versace.png" alt="Versace" height="30" width="30" />
+      <strong style="font-size: 18px;">Versace</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Full-Stack Mobile]</strong>
+    </div>
+    <p>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</p>
+  </div>
+
+  <!-- Project 2 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="crypto-scope.png" alt="CryptoScope" height="30" width="30" />
+      <strong style="font-size: 18px;">CryptoScope</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Mobile App]</strong>
+    </div>
+    <p>Kotlin Multiplatform Mobile App with platform-specific UIs pulling data from Node.js API + MongoDB.</p>
+  </div>
+</div>
+
 <h2 align="center">Help Me On</h2>
-<p align="left">
-  <a href="https://github.com/Asif-Faizal/True-Face" target="blank">
-    <img align="left" src="square.png" alt="Flutter-Dotted-Border" height="30" width="30" style="margin-right: 30px;" />
-    <strong>EdgeDetectX</strong>
-  </a> <strong>[Flutter Plugin]</strong>:  EdgeDetectX is a Flutter plugin for real-time edge detection using the device camera, ideal for document scanning and object recognition. 
-</p>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/True-Face" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="square.png" alt="EdgeDetectX" height="30" width="30" />
+      <strong style="font-size: 18px;">EdgeDetectX</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Flutter Plugin]</strong>
+    </div>
+    <p>Real-time edge detection plugin for document scanning and object recognition using device camera.</p>
+  </div>
+</div>
 
 </br>
 <h2 align="center">Blog Posts</h2>
