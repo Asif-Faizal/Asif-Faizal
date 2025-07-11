@@ -55,6 +55,20 @@
     <p>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</p>
   </div>
 
+
+<h2 align="center">Contributing To</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/bitchat" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="contacts.png" alt="BitChat" height="30" width="30" />
+      <strong style="font-size: 18px;">BitChat</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[iOS Messaging App]</strong>
+    </div>
+    <p>A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat. See my works on <a href="https://github.com/permissionlesstech/bitchat/pull/154" target="_blank">PR</a>.</p>
+  </div>
+
 <h2 align="center">Help Me On</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
