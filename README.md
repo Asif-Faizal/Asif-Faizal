@@ -16,18 +16,6 @@
     <p>Real-time chat application powered by gRPC, Node.js, and MongoDB with Flutter. Features authentication, messaging, and chat history using Protocol Buffers.</p>
   </div>
 
-  <!-- Project 2 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/DoodleDome" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="doodle.png" alt="Doodle-Dome" height="30" width="30" />
-      <strong style="font-size: 18px;">Doodle-Dome</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Backend]</strong>
-    </div>
-    <p>School-based art competition platform for managing contests, schools, students, and registrations.</p>
-  </div>
-
   <!-- Project 3 -->
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/Asif-Faizal/Gommerce" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
