@@ -66,7 +66,7 @@
     <div style="color: #8b949e; margin-bottom: 10px;">
       <strong>[iOS Messaging App]</strong>
     </div>
-    <p>A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat. See my works on <a href="https://github.com/permissionlesstech/bitchat/pull/154" target="_blank">PR</a>.</p>
+    <p>A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat. See my works on <a href="https://github.com/permissionlesstech/bitchat/pull/154" target="_blank">PR #154 [Added /ping]</a>.</p>
   </div>
 
 <h2 align="center">Help Me On</h2>
