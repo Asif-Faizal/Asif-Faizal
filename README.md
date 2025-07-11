@@ -55,19 +55,6 @@
     <p>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</p>
   </div>
 
-  <!-- Project 2 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/CryptoScope" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="crypto-scope.png" alt="CryptoScope" height="30" width="30" />
-      <strong style="font-size: 18px;">CryptoScope</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Mobile App]</strong>
-    </div>
-    <p>Kotlin Multiplatform Mobile App with platform-specific UIs pulling data from Node.js API + MongoDB.</p>
-  </div>
-</div>
-
 <h2 align="center">Help Me On</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
