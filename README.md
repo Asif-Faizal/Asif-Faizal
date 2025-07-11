@@ -1,7 +1,11 @@
 <h1 align="center">Mobile Application developer</h1>
 
-<img width="1581" height="158" alt="453880807-ca5d0f92-90e2-4be2-8248-e7e4c841e771-removebg-preview" src="https://github.com/user-attachments/assets/6ed6b76b-a308-4375-ae34-de8b9178bda8" />
 
+<img width="1581" height="158" alt="453880807-ca5d0f92-90e2-4be2-8248-e7e4c841e771-removebg-preview" src="https://github.com/user-attachments/assets/6ed6b76b-a308-4375-ae34-de8b9178bda8" />
+<p align="center">
+  🌐 <a href="https://asif-faizal.github.io" target="blank">asif-faizal.github.io</a>
+</p>
+<br>
 <h2 align="center">Projects</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <!-- Project 1 -->
@@ -80,6 +84,19 @@
       <strong>[Flutter Plugin]</strong>
     </div>
     <p>Real-time edge detection plugin for document scanning and object recognition using device camera.</p>
+  </div>
+</div>
+
+<h2 align="center">Study Resources</h2>
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <!-- BigOCcasion -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/BigOCcasion" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="dsa.png" alt="BigOCcasion" height="30" width="30" />
+      <strong style="font-size: 18px;">BigOCcasion</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;"><strong>[C++ DSA Walkthrough]</strong></div>
+    <p>A once-in-a-lifetime <strong>BigOCcasion</strong> to master Data Structures and Algorithms in C++, one pointer and segfault at a time. Welcome to the complexity party.</p>
   </div>
 </div>
 
