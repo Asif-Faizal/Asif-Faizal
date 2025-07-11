@@ -59,7 +59,7 @@
 <h2 align="center">Contributing To</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/bitchat" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+    <a href="https://github.com/permissionlesstech/bitchat" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
       <img src="contacts.png" alt="BitChat" height="30" width="30" />
       <strong style="font-size: 18px;">BitChat</strong>
     </a>
