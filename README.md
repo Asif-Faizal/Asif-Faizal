@@ -73,20 +73,6 @@
     <p>A decentralized peer-to-peer messaging app that works over Bluetooth mesh networks. No internet required, no servers, no phone numbers. It's the side-groupchat. See my works on <a href="https://github.com/permissionlesstech/bitchat/pull/154" target="_blank">PR #154 [Added /ping]</a>.</p>
   </div>
 
-<h2 align="center">Help Me On</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/True-Face" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="square.png" alt="EdgeDetectX" height="30" width="30" />
-      <strong style="font-size: 18px;">EdgeDetectX</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Flutter Plugin]</strong>
-    </div>
-    <p>Real-time edge detection plugin for document scanning and object recognition using device camera.</p>
-  </div>
-</div>
-
 <h2 align="center">Study Resources</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <!-- BigOCcasion -->
