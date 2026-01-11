@@ -10,6 +10,19 @@
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <!-- Project 1 -->
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/SpiceLedger-Backend" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="chat.png" alt="Spice Ledger" height="30" width="30" />
+      <strong style="font-size: 18px;">Spice Ledger</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Full-Stack Mobile]</strong>
+    </div>
+    <p>Spice Ledger tracks inventory, daily prices, and per‑grade profitability for spice trading, delivered via a Flutter mobile app and a Go (Fiber) backend with REST and GraphQL.</p>
+  </div>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <!-- Project 1 -->
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/Asif-Faizal/Social-Circle" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
       <img src="chat.png" alt="Social Circle" height="30" width="30" />
       <strong style="font-size: 18px;">Social Circle</strong>
@@ -18,18 +31,6 @@
       <strong>[Full-Stack Mobile]</strong>
     </div>
     <p>Real-time chat application powered by gRPC, Node.js, and MongoDB with Flutter. Features authentication, messaging, and chat history using Protocol Buffers.</p>
-  </div>
-
-  <!-- Project 4 -->
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Contactor" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="contacts.png" alt="ContactX" height="30" width="30" />
-      <strong style="font-size: 18px;">ContactX</strong>
-    </a>
-    <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Flutter Plugin]</strong>
-    </div>
-    <p>High-performance Flutter plugin for fetching device contacts using Method Channels. Available on <a href="https://pub.dev/packages/contactx" target="_blank">pub.dev</a>.</p>
   </div>
 
   <!-- Project 5 -->
@@ -46,7 +47,6 @@
 </div>
 
 <h2 align="center">Working On</h2>
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <!-- Project 1 -->
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/Asif-Faizal/Versace" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
@@ -61,6 +61,19 @@
 
 
 <h2 align="center">Contributing To</h2>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
+  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
+    <a href="https://github.com/Asif-Faizal/Contactor" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="contacts.png" alt="ContactX" height="30" width="30" />
+      <strong style="font-size: 18px;">ContactX</strong>
+    </a>
+    <div style="color: #8b949e; margin-bottom: 10px;">
+      <strong>[Flutter Plugin]</strong>
+    </div>
+    <p>High-performance Flutter plugin for fetching device contacts using Method Channels. Available on <a href="https://pub.dev/packages/contactx" target="_blank">pub.dev</a>.</p>
+  </div>
+  
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/permissionlesstech/bitchat" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
