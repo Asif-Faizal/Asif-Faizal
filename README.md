@@ -11,7 +11,7 @@
   <!-- Project 1 -->
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/Asif-Faizal/SpiceLedger-Backend" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="chat.png" alt="Spice Ledger" height="30" width="30" />
+      <img src="ledger.png" alt="Spice Ledger" height="30" width="30" />
       <strong style="font-size: 18px;">Spice Ledger</strong>
     </a>
     <div style="color: #8b949e; margin-bottom: 10px;">
