@@ -1,7 +1,7 @@
 <h1 align="center">Mobile Application developer</h1>
 
 
-<img width="1581" height="158" alt="453880807-ca5d0f92-90e2-4be2-8248-e7e4c841e771-removebg-preview" src="https://github.com/user-attachments/assets/6ed6b76b-a308-4375-ae34-de8b9178bda8" />
+<!-- <img width="1581" height="158" alt="453880807-ca5d0f92-90e2-4be2-8248-e7e4c841e771-removebg-preview" src="https://github.com/user-attachments/assets/6ed6b76b-a308-4375-ae34-de8b9178bda8" /> -->
 <p align="center">
   🌐 <a href="https://asif-faizal.github.io" target="blank">asif-faizal.github.io</a>
 </p>
