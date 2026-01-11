@@ -49,14 +49,14 @@
 <h2 align="center">Working On</h2>
   <!-- Project 1 -->
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
-    <a href="https://github.com/Asif-Faizal/Versace" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-      <img src="versace.png" alt="Versace" height="30" width="30" />
-      <strong style="font-size: 18px;">Versace</strong>
+    <a href="https://github.com/Asif-Faizal/Minimum-Viable-Shop" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
+      <img src="shopping.png" alt="Minimum-Viable-Shop" height="30" width="30" />
+      <strong style="font-size: 18px;">Minimum-Viable-Shop</strong>
     </a>
     <div style="color: #8b949e; margin-bottom: 10px;">
-      <strong>[Full-Stack Mobile]</strong>
+      <strong>[Microservices Backend]</strong>
     </div>
-    <p>Fashion ecommerce app with product/order management and payments using Node.js + MongoDB + Flutter.</p>
+    <p>A minimal, production-ready foundation for an e-commerce shop. It uses modular services, a GraphQL API layer, gRPC server for cross-service communication, and containerized deployment to keep development fast while remaining scalable and maintainable.</p>
   </div>
 
 
