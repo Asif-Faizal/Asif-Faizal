@@ -3,6 +3,11 @@
 <!-- <img width="1581" height="158" alt="453880807-ca5d0f92-90e2-4be2-8248-e7e4c841e771-removebg-preview" src="https://github.com/user-attachments/assets/6ed6b76b-a308-4375-ae34-de8b9178bda8" /> -->
 <p align="center">
   🌐 <a href="https://asif-faizal.github.io" target="blank">asif-faizal.github.io</a>
+  <br/>
+  <img width="707" height="88" alt="Untitled_design-removebg-preview"
+       src="https://github.com/user-attachments/assets/74e945c5-8b08-4616-affb-4eacc3c2e46d" />
+</p>
+
 </p>
 <h2>Projects</h2>
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(400px, 1fr)); gap: 20px; margin: 30px 0;">
