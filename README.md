@@ -15,7 +15,7 @@
     <div style="color: #8b949e; margin-bottom: 10px;">
       <strong>[Microservices Backend]</strong>
     </div>
-    <p>A minimal, production-ready foundation for an e-commerce shop. It uses modular services, a GraphQL API layer, gRPC server for cross-service communication, and containerized deployment to keep development fast while remaining scalable and maintainable.</p>
+    <p>A production-ready e-commerce backend with modular services - a GraphQL and REST API, gRPC-based inter-service communication, Reverse Proxy and Containerized deployment — highly scalable.</p>
   </div>
   <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px;">
     <a href="https://github.com/Asif-Faizal/SpiceLedger-Backend" target="blank" style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
