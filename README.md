@@ -73,7 +73,6 @@
   </div>
 </div>
 
-</br>
 <h2>Blogs</h2>
 <p style="margin: 0; display: flex; justify-content: center; gap: 10px;">
   <a href="https://medium.com/@moh.asif/enter-the-flutter-verse-flutter-plugin-development-c348e1e8c49c" target="blank">
@@ -89,12 +88,3 @@
     <img align="center" src="blog4.png" alt="moh--asif" height="120" width="200" />
   </a>
 </p>
-
-</br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/moh--asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moh--asif" height="30" width="40" /></a>
-<a href="https://instagram.com/asif_faizal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asif_faizal" height="30" width="40" /></a>
-<a href="https://medium.com/@moh.asif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@moh.asif" height="30" width="40" /></a>
-</p>
-
